@@ -1,6 +1,8 @@
 package com.challenge.entity;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import javax.persistence.Embeddable;
@@ -21,19 +23,4 @@ public class SubmissionId implements Serializable {
     @ManyToOne
     private User user;
 
-    public Challenge getChallenge() {
-        return challenge;
-    }
-
-    public void setChallenge(Challenge challenge) {
-        this.challenge = challenge;
-    }
-
-    public User getUser() {
-        return user;
-    }
-
-    public void setUser(User user) {
-        this.user = user;
-    }
 }

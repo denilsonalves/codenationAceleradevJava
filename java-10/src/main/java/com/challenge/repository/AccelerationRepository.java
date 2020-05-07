@@ -2,7 +2,9 @@ package com.challenge.repository;
 
 import com.challenge.entity.Acceleration;
 import com.challenge.entity.User;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -13,11 +15,11 @@ public interface AccelerationRepository extends CrudRepository<Acceleration, Lon
 
     Optional<Acceleration> findById(Long id);
 
-    List<Acceleration> findByCompanyId(Long companyId);
+    @Query("select c.id.acceleration from Candidate c where c.id.company.id = :id")
+    List<Acceleration> findByCompanyId(@Param("id") Long companyId);
 
     Acceleration findByName(String name);
 
-    List<User> findUserById(Long id);
     
 }
 
