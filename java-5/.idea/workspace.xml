@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45663864-a6c8-452e-b623-940b8262df14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/AccelerationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/CandidateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/ChallengeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/SubmissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-11/src/main/java/com/challenge/endpoints/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/Acceleration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/CandidateId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/Submission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/SubmissionId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-9/src/main/java/com/challenge/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-15/src/main/java/br/com/codenation/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-15/src/main/java/br/com/codenation/service/OrderServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cGtJOa2Z4EGdRObfJDFS7QyCvo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.QuoteIntegrationTest">
+    <configuration name="QuoteControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.QuoteControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="QuoteIntegrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.QuoteIntegrationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.QuoteIntegrationTest" />
+        <item itemvalue="Gradle.QuoteControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45663864-a6c8-452e-b623-940b8262df14" name="Default Changelist" comment="" />
+      <created>1590166687112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590166687112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1870" height="286" key="GridCell.Tab.0.bottom" timestamp="1590167793008">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="286" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.1080.1920.1080@0.1080.1920.1080" timestamp="1590167793008" />
+    <state width="1870" height="286" key="GridCell.Tab.0.center" timestamp="1590167793008">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="286" key="GridCell.Tab.0.center/0.27.1920.1053/0.1080.1920.1080@0.1080.1920.1080" timestamp="1590167793008" />
+    <state width="1870" height="286" key="GridCell.Tab.0.left" timestamp="1590167793007">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="286" key="GridCell.Tab.0.left/0.27.1920.1053/0.1080.1920.1080@0.1080.1920.1080" timestamp="1590167793007" />
+    <state width="1870" height="286" key="GridCell.Tab.0.right" timestamp="1590167793008">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="286" key="GridCell.Tab.0.right/0.27.1920.1053/0.1080.1920.1080@0.1080.1920.1080" timestamp="1590167793008" />
+  </component>
+</project>

@@ -13,7 +13,7 @@ import br.com.codenation.repository.ProductRepositoryImpl;
 
 public class OrderServiceImpl implements OrderService {
 
-	public static final double DESCONTO = 0.2;
+	private static final double DESCONTO = 0.2;
 
 	private ProductRepository productRepository = new ProductRepositoryImpl();
 
